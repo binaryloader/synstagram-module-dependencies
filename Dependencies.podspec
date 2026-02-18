@@ -1,6 +1,6 @@
 Pod::Spec.new do |s|
   s.name = 'Dependencies'
-  s.version = '1.0.2'
+  s.version = '1.0.3'
   s.license = { :type => 'MIT' }
   s.homepage = 'https://github.com/binaryloader/synstagram-module-dependencies'
   s.authors = { 'binaryloader' => '152517454+binaryloader@users.noreply.github.com' }
