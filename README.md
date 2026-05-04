@@ -1,5 +1,7 @@
 # synstagram-module-dependencies
 
+**English** | [한국어](docs/i18n/ko/README.md) | [日本語](docs/i18n/ja/README.md)
+
 Dependency injection module for the Synstagram iOS app, distributed as a CocoaPods pod.
 
 ## Modules
