@@ -1,6 +1,6 @@
-# synstagram-module-dependencies
-
 [English](../../../README.md) | **한국어** | [日本語](../ja/README.md)
+
+# synstagram-module-dependencies
 
 Synstagram iOS 앱을 위한 의존성 주입 모듈이며, CocoaPods pod으로 배포한다.
 

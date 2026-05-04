@@ -1,6 +1,6 @@
-# synstagram-module-dependencies
-
 [English](../../../README.md) | [한국어](../ko/README.md) | **日本語**
+
+# synstagram-module-dependencies
 
 Synstagram iOSアプリのための依存性注入モジュールで、CocoaPods podとして配布します。
 
