@@ -2,7 +2,7 @@
 
 # synstagram-module-dependencies
 
-Synstagram iOS 앱을 위한 의존성 주입 모듈이며, CocoaPods pod으로 배포한다.
+Synstagram iOS 앱을 위한 의존성 주입 모듈이며 CocoaPods pod으로 배포한다.
 
 ## 모듈
 
@@ -30,4 +30,4 @@ pod 'Dependencies/AlbumList'
 
 ## 라이선스
 
-이 프로젝트는 MIT 라이선스를 따르며, 자세한 내용은 [LICENSE](../../../LICENSE) 파일을 참고한다.
+이 프로젝트는 MIT 라이선스를 따르며 자세한 내용은 [LICENSE](../../../LICENSE) 파일을 참고한다.
